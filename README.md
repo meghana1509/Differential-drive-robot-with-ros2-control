@@ -31,6 +31,29 @@ The project focuses on **robot modeling, physics stability, and controller integ
 - `geometry_msgs/Twist`
 
 ---
+## Package Structure
 
-## 📂 Package Structure
+sampling_robot/
+├── urdf/
+│ └── sampling_robot.urdf
+├── config/
+│ └── controllers.yaml
+├── launch/
+│ └── gazebo.launch.py
+
+
+## 🔭 Future Work
+
+    - Navigation stack integration (Nav2)
+
+    - Controller tuning
+
+    - Autonomous sampling logic
+
+    -- Extension toward medical robotics use cases
+## 👩‍💻 Author
+
+Meghana M
+M.Tech – Robotics & Automation
+Interest areas: Medical Robotics, ROS2, Automation
 
