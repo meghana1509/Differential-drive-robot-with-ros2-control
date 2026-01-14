@@ -2,7 +2,6 @@
 
 A custom-designed **Differential Drive Robot** featuring a 3-DOF robotic arm, simulated within the **ROS 2 Humble** environment and **Gazebo**. This project demonstrates the integration of URDF modeling, ROS 2 control architectures, and physics-based simulation tuning.
 
-## 📺 Project Showcase
  
 
 ## 🛠 Features
